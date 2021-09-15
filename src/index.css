@@ -1,0 +1,17 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Mulish:wght@900&display=swap'); */
+
+
+
+@font-face {
+    font-family: 'Gotham';
+    src: local('Gotham'), url(./font/Gotham-Bold.otf) format('truetype');
+  }
+
+body{
+    margin: 0;
+    background: #121212;
+    font-family: 'Gotham';
+    font-weight: 100;
+    width: 100%;
+    height: 100%;
+}
